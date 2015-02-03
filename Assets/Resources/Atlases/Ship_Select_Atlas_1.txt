@@ -1,0 +1,132 @@
+{"frames": {
+
+"Boxes_And_Shit.png":
+{
+	"frame": {"x":2,"y":1668,"w":1016,"h":338},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":1016,"h":338},
+	"sourceSize": {"w":1030,"h":344}
+},
+"Rounds_Button_1.png":
+{
+	"frame": {"x":1208,"y":1301,"w":314,"h":60},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":314,"h":60},
+	"sourceSize": {"w":316,"h":64}
+},
+"Rounds_Button_2.png":
+{
+	"frame": {"x":1924,"y":984,"w":315,"h":61},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":315,"h":61},
+	"sourceSize": {"w":315,"h":61}
+},
+"Rounds_Button_3.png":
+{
+	"frame": {"x":1207,"y":1617,"w":314,"h":60},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":314,"h":60},
+	"sourceSize": {"w":316,"h":62}
+},
+"Rounds_Button_4.png":
+{
+	"frame": {"x":1146,"y":1301,"w":314,"h":60},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":314,"h":60},
+	"sourceSize": {"w":316,"h":60}
+},
+"Rounds_Button_5.png":
+{
+	"frame": {"x":1020,"y":1984,"w":314,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":314,"h":61},
+	"sourceSize": {"w":316,"h":63}
+},
+"Ship_Select_Asteroids_+.png":
+{
+	"frame": {"x":1145,"y":1617,"w":314,"h":60},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":314,"h":60},
+	"sourceSize": {"w":318,"h":64}
+},
+"Ship_Select_Asteroids_-.png":
+{
+	"frame": {"x":1269,"y":1617,"w":313,"h":61},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":313,"h":61},
+	"sourceSize": {"w":317,"h":61}
+},
+"Ship_Select_Asteroids_No.png":
+{
+	"frame": {"x":1084,"y":1301,"w":314,"h":60},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":314,"h":60},
+	"sourceSize": {"w":316,"h":64}
+},
+"Ship_Select_BG.png":
+{
+	"frame": {"x":2,"y":2,"w":1920,"h":1080},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1920,"h":1080},
+	"sourceSize": {"w":1920,"h":1080}
+},
+"Ship_Select_Bar.png":
+{
+	"frame": {"x":2,"y":1301,"w":365,"h":1080},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":365,"h":1080},
+	"sourceSize": {"w":369,"h":1080}
+},
+"Ship_Select_Exit.png":
+{
+	"frame": {"x":1020,"y":1668,"w":314,"h":61},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":314,"h":61},
+	"sourceSize": {"w":316,"h":63}
+},
+"Ship_Select_Player_1.png":
+{
+	"frame": {"x":1924,"y":493,"w":489,"h":88},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":489,"h":88},
+	"sourceSize": {"w":489,"h":88}
+},
+"Ship_Select_Player_2.png":
+{
+	"frame": {"x":1924,"y":2,"w":489,"h":89},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":489,"h":89},
+	"sourceSize": {"w":493,"h":91}
+},
+"Ship_Select_Start.png":
+{
+	"frame": {"x":1083,"y":1668,"w":314,"h":60},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":1,"w":314,"h":60},
+	"sourceSize": {"w":318,"h":62}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "Ship_Select_Atlas_1.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:43a3ca27f1aa02f0674f5e0af5ca248d$"
+}
+}

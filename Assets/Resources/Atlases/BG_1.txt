@@ -1,0 +1,20 @@
+{"frames": {
+
+"Original_Starfield.png":
+{
+	"frame": {"x":2,"y":2,"w":1680,"h":1050},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1680,"h":1050},
+	"sourceSize": {"w":1680,"h":1050}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "BG_1.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6199ee112fcf37c5a5ba38bf698e3516$"
+}
+}
